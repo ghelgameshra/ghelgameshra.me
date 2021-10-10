@@ -89,7 +89,7 @@ int main(){
     cout << "q = " << (t1-t2)*k*a << "/" << l << endl;
     cout << "q = " << q << endl << endl;
     
-    if( myCode = "9323347554412627" ){
+    if( myCode == "9323347554412627" ){
         cout << "===============================" << endl;
         cout << "Code by : RizkyAndriawan" << endl;
         cout << "===============================" << endl;   
