@@ -16,6 +16,7 @@ int main(){
     string prodi = "Teknik Informatika";
     string nim = "21552021033";
     string matkul = "Pemrograman Terstruktur";
+    string myCode = "9323347554412627";
     char tampil;
 
     // pilihan apakah menampilkan data mahasiswa/ tidak
@@ -88,9 +89,15 @@ int main(){
     cout << "q = " << (t1-t2)*k*a << "/" << l << endl;
     cout << "q = " << q << endl << endl;
     
-    cout << "===============================" << endl;
-    cout << "Code by : RizkyAndriawan" << endl;
-    cout << "===============================" << endl;
+    if( myCode = "9323347554412627" ){
+        cout << "===============================" << endl;
+        cout << "Code by : RizkyAndriawan" << endl;
+        cout << "===============================" << endl;   
+    } else {
+        cout << "===============================" << endl;
+        cout << "Code by : unknown" << endl;
+        cout << "===============================" << endl;   
+    }
     cin.get();
     return 0;
 }
