@@ -1,8 +1,8 @@
 RENCANA BELAJAR PEMROGRAMAN SAYA 
 --> Java
-    *OOP
-    *Sql
+    *GUI Library
 --> PHP
+    *DOM
     *OOP
     *Laravel
 --> Javascript
