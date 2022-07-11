@@ -1,6 +1,7 @@
 RENCANA BELAJAR PEMROGRAMAN SAYA 
 --> Java
     *OOP
+    *Sql
 --> PHP
     *OOP
     *Laravel
