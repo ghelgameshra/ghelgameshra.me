@@ -3,6 +3,8 @@ RENCANA BELAJAR PEMROGRAMAN SAYA
     *GUI Library
 --> PHP
     *DOM
+    *OOP
+    *Laravel
 --> Javascript
 
 
