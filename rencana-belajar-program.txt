@@ -2,6 +2,8 @@ RENCANA BELAJAR PEMROGRAMAN SAYA
 --> Java
     *OOP
 --> PHP
+    *OOP
+    *Laravel
 --> Javascript
 
 
