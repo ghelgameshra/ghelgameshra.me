@@ -7,10 +7,9 @@ time.sleep(5)
 
 # FROM FILE
 txt = open('animals.txt', 'r')
-text = 'ayaaaang'
 jumlah = 30
-for i in range(jumlah):
-    pg.write(text)
+for i in txt:
+    pg.write(i)
     pg.press('Enter')
 
 # FROM FOR LOOP INT
