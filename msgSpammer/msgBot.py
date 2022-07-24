@@ -2,12 +2,15 @@ import pyautogui as pg
 import time
 
 print('Klik area tujuan')
-time.sleep(2)
+time.sleep(5)
+
 
 # FROM FILE
 txt = open('animals.txt', 'r')
-for i in txt:
-    pg.write(i)
+text = 'ayaaaang'
+jumlah = 30
+for i in range(jumlah):
+    pg.write(text)
     pg.press('Enter')
 
 # FROM FOR LOOP INT
